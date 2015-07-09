@@ -1,0 +1,32 @@
+{
+  "name": "facebook_feed",
+  "version": "0.0.1",
+  "dependencies": {},
+  "devDependencies": {
+    "apache-server-configs": "^2.8.0",
+    "grunt": "^0.4.5",
+    "grunt-contrib-copy": "",
+    "grunt-contrib-concat": "",
+    "grunt-contrib-jst": "",
+    "grunt-contrib-uglify": "",
+    "grunt-contrib-jshint": "",
+    "grunt-contrib-cssmin": "",
+    "grunt-contrib-connect": "",
+    "grunt-contrib-clean": "",
+    "grunt-contrib-htmlmin": "",
+    "grunt-contrib-imagemin": "",
+    "grunt-contrib-watch": "",
+    "grunt-bower-requirejs": "",
+    "grunt-requirejs": "",
+    "grunt-rev": "",
+    "grunt-open": "",
+    "grunt-sass": "",
+    "load-grunt-tasks": "",
+    "connect-livereload": "",
+    "time-grunt": "",
+    "jshint-stylish": ""
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
